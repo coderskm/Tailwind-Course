@@ -1,0 +1,1 @@
+postcss instead of tailwind build -i

@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.para{
+    @apply text-blue-400 m-4 sm:bg-yellow-300;
+}
