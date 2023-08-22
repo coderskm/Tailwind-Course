@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .btn{
+        @apply p-6 bg-red-500 text-10xl m-0 xsm:text-white;
+    }
+}
